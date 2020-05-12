@@ -36,7 +36,7 @@ Simply fill in the `PupperCoin.sol` file with this [starter code](/Starter-Code/
 
 #### PupperCoinCrowdsale
 
-Leverage the [Crowdsale](../Starter-Code/Crowdsale.sol) starter code, saving the file in Remix as `Crowdsale.sol`.
+Leverage the [Crowdsale](/Starter-Code/Crowdsale.sol) starter code, saving the file in Remix as `Crowdsale.sol`.
 
 You will need to bootstrap the contract by inheriting the following OpenZeppelin contracts:
 
