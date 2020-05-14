@@ -4,4 +4,10 @@
 
 ## Instructions
 
-For this homework, three different Solidity files were coded in Remix (https://remix.ethereum.org/#optimize=false&evmVersion=null&version=soljson-v0.6.6+commit.6c089d02.js)
+For this homework, three different Solidity files were coded in Remix (https://remix.ethereum.org/#optimize=false&evmVersion=null&version=soljson-v0.6.6+commit.6c089d02.js).
+
+In the Starter-Code directory you can find the code for each Solidity File:
+
+[PupperCoin.sol](Starter-Code/PupperCoin.sol)
+
+
