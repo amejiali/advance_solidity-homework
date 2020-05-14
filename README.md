@@ -13,5 +13,11 @@ In the Starter-Code directory you can find the code for each Solidity File:
   2. [Crowdsale.sol](Starter-Code/Crowdsale.sol)
     
   3. [PupperCoinCrowdsale.sol](Starter-Code/PupperCoinCrowdsale.sol)
+  
+### Process
 
+The whole process to build and deploy the above code was:
 
+1. Code the file PupperCoin.sol
+
+![PupperCoin](Images/PupperCoin_Code.png)
