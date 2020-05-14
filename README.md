@@ -28,3 +28,10 @@ The whole process to build and deploy the above code was:
 
 ![Crowdsale](Images/Crowdsale_Code.png)
 
+3. Compile and Deploy the above code for **PupperCoinCrowdsale**, initially in LocalHost to check that everything is working fine
+
+![PupperCoin_Deploy](Images/PupperCoin_Deploy.png)
+
+![PupperCoin_Functionality](Images/PupperCoin_Functionality.png)
+
+![PupperCoin_Deployer](Images/PupperCoin_Deployer.png)
