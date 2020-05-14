@@ -66,13 +66,13 @@ The whole process to build and deploy the above code was:
 
 ***Token_sale Address: 0x57cc0FeC5287f1b87b93FdB8cE8bae5Fd6D9Af6b
 
-![Kovan_1](Images/Kovan_1.png)
+![Kovan_1](Images/Kovan1.png)
 
-![Kovan_2](Images/Kovan_2.png)
+![Kovan_2](Images/Kovan2.png)
 
-![Kovan_3](Images/Kovan_3.png)
+![Kovan_3](Images/Kovan3.png)
 
-![Kovan_4](Images/Kovan_4.png)
+![Kovan_4](Images/Kovan4.png)
 
-![Kovan_5](Images/Kovan_5.png)
+![Kovan_5](Images/Kovan5.png)
 
