@@ -8,10 +8,10 @@ For this homework, three different Solidity files were coded in Remix (https://r
 
 In the Starter-Code directory you can find the code for each Solidity File:
 
-    [PupperCoin.sol](Starter-Code/PupperCoin.sol)
+   [PupperCoin.sol](Starter-Code/PupperCoin.sol)
     
-    [Crowdsale.sol](Starter-Code/Crowdsale.sol)
+   [Crowdsale.sol](Starter-Code/Crowdsale.sol)
     
-    [PupperCoinCrowdsale.sol](Starter-Code/PupperCoinCrowdsale.sol)
+   [PupperCoinCrowdsale.sol](Starter-Code/PupperCoinCrowdsale.sol)
 
 
